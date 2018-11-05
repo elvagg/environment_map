@@ -1,0 +1,6 @@
+D:\Inżynierka\DXFparser\bin\Debug\DXFparser.exe.config
+D:\Inżynierka\DXFparser\bin\Debug\DXFparser.exe
+D:\Inżynierka\DXFparser\bin\Debug\DXFparser.pdb
+D:\Inżynierka\DXFparser\obj\Debug\DXFparser.csprojResolveAssemblyReference.cache
+D:\Inżynierka\DXFparser\obj\Debug\DXFparser.exe
+D:\Inżynierka\DXFparser\obj\Debug\DXFparser.pdb
